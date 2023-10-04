@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "name": "Courtney Shantelle",
+      "email": "kace@yahoo.com",
+      "city": "Scc",
+      "pincode": 6127,
+      "phonenumber": 1234,
+      "id": 13
+    },
+    {
+      "name": "Queen Kimberly Escanillan",
+      "email": "qkescanillan2yahoo.com",
+      "city": "Cebu",
+      "pincode": 6000,
+      "phonenumber": 9687719004,
+      "id": 14
+    },
+    {
+      "name": "King Zandro Tan",
+      "email": "Kz@yahoo.com",
+      "city": "San Carlos",
+      "pincode": 6127,
+      "phonenumber": 9182794445,
+      "id": 15
+    }
+  ]
+}
